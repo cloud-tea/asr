@@ -1,7 +1,7 @@
 var execSync = require("child_process").execSync;
 var fs = require('fs');
 const path = require("path");
-const parserSHPATH = path.join(__dirname, "../scripts/parse.sh");
+const parserSHPATH = path.join(__dirname, "parse.sh");
 let AipSpeechClient = require("baidu-aip-sdk").speech;
 let client;
 
