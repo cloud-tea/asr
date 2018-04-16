@@ -1,0 +1,29 @@
+{
+  "name": "ct-asr",
+  "version": "1.0.0",
+  "description": "微信小程序语音识别",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloud-tea/asr.git"
+  },
+  "keywords": [
+    "wechat",
+    "小程序",
+    "语音识别"
+  ],
+  "author": "zjhiphop@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cloud-tea/asr/issues"
+  },
+  "dependencies": {
+    "baidu-aip-sdk": "^2.1.0",
+    "request": "^2.85.0",
+    "request-promise": "^4.2.2"
+  },
+  "homepage": "https://github.com/cloud-tea/asr#readme"
+}
