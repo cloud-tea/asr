@@ -20,7 +20,7 @@ let methods = {
 	},
 
 	start(audioPath) {
-		let convertWav = this.generateWAV(audioPath);
+		let convertWav = this.adoptVoice(audioPath);
 
 		if (convertWav) {
 
