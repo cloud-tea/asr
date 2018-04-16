@@ -144,7 +144,7 @@
 
 3. 服务端调用示例：
 ```
- 	let asr = require('ct-asr');
+ 	let asr = require('@cloudtea/ct-asr');
 	let APP_ID = 'xxx'; // 百度语音识别 APP ID
 	let API_KEY = "xxx"; // 百度语音识别 APP KEY
 	let SECRET_KEY = "xxx"; // 百度语音识别 SECRET

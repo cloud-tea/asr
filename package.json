@@ -1,5 +1,5 @@
 {
-  "name": "ct-asr",
+  "name": "@cloudtea/ct-asr",
   "version": "1.0.0",
   "description": "微信小程序语音识别",
   "main": "index.js",
